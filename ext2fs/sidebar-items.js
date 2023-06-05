@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["BLOCKS_PER_GRP","BLOCK_SIZE"],"mod":["ext2err","layout","timer"],"struct":["Ext2FileSystem","Inode"],"trait":["BlockDevice"]};
